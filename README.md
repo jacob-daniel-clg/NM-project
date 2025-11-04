@@ -63,7 +63,7 @@ By leveraging **ServiceNow Flow Designer**, this system automatically assigns ti
 ---
 
 ## 📸 Screenshots
- You can view all project screenshots in the dedicated [Screenshots Folder](./screenshots/).
+ You can view all project screenshots in the dedicated [Screenshots Folder](./Screenshots/).
 - User Creation  
 - Group Creation  
 - Flow Setup  
